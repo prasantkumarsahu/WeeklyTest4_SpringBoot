@@ -1,0 +1,13 @@
+package com.prasant.WeeklyTest4;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class WeeklyTest4Application {
+
+	public static void main(String[] args) {
+		SpringApplication.run(WeeklyTest4Application.class, args);
+	}
+
+}
